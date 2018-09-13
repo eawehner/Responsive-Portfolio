@@ -142,11 +142,39 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 980px) {
+    .content {
+        width: 90%;
+        margin: auto;
+    }
 
 }
 
 @media screen and (max-width: 768px) {
+    .content {
+        width: 90%;
+        margin: auto;
+    }
 
+    img#photo {
+        clear: both;
+    }
+
+    p {
+        clear: both;
+    }
 }
 
-@media screen and (max-width: )
+@media screen and (max-width: 640px) {
+    .content {
+        width: 90%;
+        margin: auto;
+    }
+
+    img#photo {
+        clear: both;
+    }
+
+    p {
+        clear: both;
+    }
+}
