@@ -146,7 +146,6 @@ input[type=submit] {
         width: 90%;
         margin: auto;
     }
-
 }
 
 @media screen and (max-width: 768px) {
@@ -156,6 +155,8 @@ input[type=submit] {
     }
 
     img#photo {
+        height: 100%;
+        width: 100%;
         clear: both;
     }
 
@@ -171,6 +172,8 @@ input[type=submit] {
     }
 
     img#photo {
+        height: 100%;
+        width: 100%;
         clear: both;
     }
 
